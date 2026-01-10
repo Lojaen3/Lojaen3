@@ -41,6 +41,12 @@ I thrive in collaborative environments, enjoy learning new technologies, and I'm
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black"/>
+<img src="https://img.shields.io/badge/Core%20ML-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unit%20Testing-6DB33F?style=for-the-badge&logo=testing-library&logoColor=white"/>
+<img src="https://img.shields.io/badge/Integration%20Testing-0A66C2?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+
 
 </p>
 
