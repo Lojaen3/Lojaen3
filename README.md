@@ -50,7 +50,7 @@ I thrive in collaborative environments, enjoy learning new technologies, and I'm
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="[www.linkedin.com/in/lojaen-ayash-a194972b3](https://www.linkedin.com/in/lojaen-ayash-a194972b3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FU%2FTvYNGQLK32S9RhfI4jA%3D%3D)">
+  <a href="https://www.linkedin.com/in/lojaen-ayash-a194972b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:LojaenAyash@gmail.com">
