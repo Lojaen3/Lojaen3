@@ -61,8 +61,5 @@ I thrive in collaborative environments, enjoy learning new technologies, and I'm
   <a href="mailto:LojaenAyash@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://YOUR-PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
 </p>
 
