@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lojaen Ayash
 
-🚀 Software Engineer | Full-Stack Developer | Freelancer | 🍎 Apple Developer Academy Graduate
+🚀 Software Engineer | 💻 Freelancer | 🍎 Apple Developer Academy Graduate | 🤖 AI Agents Builder
 
 I'm a Software Engineer and Full-Stack Developer who enjoys turning ideas into real products — from the initial concept and product direction to development and launch.
 
