@@ -1,13 +1,17 @@
 # 👋 Hi, I'm Lojaen Ayash
 
-🚀 Software Engineer | 🍎 Apple Developer Academy Student  
+🚀 Full-Stack Developer | 💻 Freelancer | 🍎 Apple Developer Academy Graduate
 
-I'm a passionate Software Engineer with a strong foundation in modern programming languages and software development practices.  
-I love turning ideas into elegant, high-quality software solutions that actually make an impact.
+I'm a Full-Stack Developer and Freelancer who enjoys turning ideas into real, meaningful digital products — from the initial concept and product direction to development and launch.
 
-Currently, I'm honing my skills as a **student at the Apple Developer Academy**, where I focus on building user-centered applications, exploring iOS development, and strengthening my problem-solving mindset through real-world projects.
+I take an entrepreneurial, product-minded approach to software development, working closely with clients to understand their goals, shape ideas, and build complete solutions across **mobile applications, web platforms, and digital products**.
 
-I thrive in collaborative environments, enjoy learning new technologies, and I'm always excited to contribute to meaningful and innovative projects. ✨
+I'm also passionate about **AI Agents and intelligent systems**, exploring how autonomous and AI-powered workflows can solve real-world problems and create smarter products.
+
+I enjoy working across the full product lifecycle, solving complex problems, learning new technologies, and turning ideas into scalable, user-centered experiences.
+
+✨ Always building, learning, and turning ideas into products.
+
 
 ---
 
